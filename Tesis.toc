@@ -1,0 +1,19 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\textbf {DEDICATORIA}}{3}{}%
+\contentsline {chapter}{\textbf {AGRADECIMIENTOS}}{4}{}%
+\contentsline {chapter}{\textbf {Índice general}}{5}{}%
+\contentsline {chapter}{\textbf {Introducción}}{6}{}%
+\contentsline {chapter}{\numberline {1}I. Planteamiento del problema}{7}{}%
+\contentsline {section}{\numberline {1.1}Planteamiento del problema}{7}{}%
+\contentsline {section}{\numberline {1.2}Objetivos}{7}{}%
+\contentsline {subsection}{\numberline {1.2.1}Objetivo general}{7}{}%
+\contentsline {subsection}{\numberline {1.2.2}Objetivos específicos}{7}{}%
+\contentsline {chapter}{\numberline {2}II. Marco teórico}{8}{}%
+\contentsline {section}{\numberline {2.1}Antecedentes}{8}{}%
+\contentsline {section}{\numberline {2.2}Bases teóricas}{8}{}%
+\contentsline {chapter}{\numberline {3}III. Marco metodológico}{9}{}%
+\contentsline {section}{\numberline {3.1}Equipos}{9}{}%
+\contentsline {section}{\numberline {3.2}Metodología experimental}{9}{}%
+\contentsline {chapter}{\numberline {4}IV. Resultados y discusión}{10}{}%
+\contentsline {chapter}{\textbf {Conclusión}}{11}{}%
+\contentsline {chapter}{\textbf {Referencias}}{11}{}%
