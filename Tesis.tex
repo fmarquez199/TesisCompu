@@ -93,22 +93,49 @@
   \label{cha:i_planteamiento_del_problema}
     \section{Planteamiento del problema} % (fold)
     \label{sec:planteamiento_del_problema}
-        Planteamiento del problema
+        El consumo energético de los sistemas humanos y la generación de
+        alternativas más eficientes ha sido un interés para el mundo desde la
+        segunda mitad del siglo XX, cuando aparece la primera gran alerta sobre
+        este particular y en el siglo XXI se formaliza este interés en los
+        procesos informáticos. En el particular de los procesos informáticos, el
+        auge que se ha visto con el crecimiento acelarado del internet y la
+        migración de los sistemas analógicos y físicos hacia sistemas virtuales
+        orientó el interés del consumo energético y la eficiencia hacia los
+        manejadores de bases de datos, que son la columna vertebral de muchos
+        sistemas.
+
+        El estudio de la eficiencia de las consultas y su consumo energético no
+        ha estado presente desde el comienzo, aunque su enfoque ha sido más
+        limitado hacia la eficiencia de las consultas sobre sistemas de bases de
+        datos centralizadas. En los últimos años, se han empezado estudios sobre
+        los sistemas de bases de datos distribuidas. Sin embargo, estos estudios
+        aún requieren mucha más atención a los múltiples factores que afectan la
+        eficiencia de las consultas y el consumo energético asociado a cada una.
+
+        Es por este motivo que se presenta una aproximación al estudio del
+        consumo energético y la eficiencia de las consultas de manejadores de
+        bases de datos relacionales PostgreSQL y MySQL (distribuidas) a los
+        efectos de ampliar la compresión sobre los posibles cuellos de botella
+        que incrementan el uso de recursos de un computador y por tanto, el
+        consumo energético.
     % section planteamiento_del_problema (end)
 
     \section{Objetivos} % (fold)
     \label{sec:objetivos}
       \subsection{Objetivo general} % (fold)
       \label{sub:objetivo_general}
-        Objetivo general
+        Comparar el rendimiento y el consumo energético en un ambiente
+        distribuido, con y sin diseño físico, mediante las pruebas de
+        rendimiento TPC-H y los sistemas de bases de datos PostgreSQL y MySQL.
       % subsection objetivo_general (end)
 
       \subsection{Objetivos específicos} % (fold)
       \label{sub:objetivos_específicos}
         \begin{enumerate}
-          \item Objetivo específico 1
-          \item Objetivo específico 2
-          \item Objetivo específico 3
+          \item Preparar el entorno y los datos de prueba con las pruebas de
+          rendimiento TPC-H.
+          \item Configurar un clúster con los sistemas de bases de datos.
+          \item Analizar los resultados de las pruebas mediante...
         \end{enumerate}
       % subsection objetivos_específicos (end)
     % section objetivos (end)

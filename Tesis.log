@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.25)  4 JUL 2025 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.25)  5 JUL 2025 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -262,23 +262,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Cap\'{\i }tulo 1.
 [7
 
-]
+] [8]
 Cap\'{\i }tulo 2.
-[8
-
-]
-Cap\'{\i }tulo 3.
 [9
 
 ]
-Cap\'{\i }tulo 4.
+Cap\'{\i }tulo 3.
 [10
 
-] (./Tesis.bbl [11]
+]
+Cap\'{\i }tulo 4.
+[11
+
+] (./Tesis.bbl [12]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [12
+) [13
 
 ] (./Tesis.aux
 LaTeX Info: Redefining \. on input line 9.
@@ -290,10 +290,10 @@ L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3980 strings out of 474222
- 66794 string characters out of 5748732
- 1928975 words of memory out of 5000000
- 26204 multiletter control sequences out of 15000+600000
+ 3983 strings out of 474222
+ 66818 string characters out of 5748732
+ 1929975 words of memory out of 5000000
+ 26207 multiletter control sequences out of 15000+600000
  564143 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,7n,69p,209b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -301,10 +301,10 @@ Here is how much of TeX's memory you used:
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Tesis.pdf (13 pages, 91233 bytes).
+Output written on Tesis.pdf (14 pages, 93899 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 71 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

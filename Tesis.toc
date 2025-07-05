@@ -8,12 +8,12 @@
 \contentsline {section}{\numberline {1.2}Objetivos}{7}{}%
 \contentsline {subsection}{\numberline {1.2.1}Objetivo general}{7}{}%
 \contentsline {subsection}{\numberline {1.2.2}Objetivos específicos}{7}{}%
-\contentsline {chapter}{\numberline {2}II. Marco teórico}{8}{}%
-\contentsline {section}{\numberline {2.1}Antecedentes}{8}{}%
-\contentsline {section}{\numberline {2.2}Bases teóricas}{8}{}%
-\contentsline {chapter}{\numberline {3}III. Marco metodológico}{9}{}%
-\contentsline {section}{\numberline {3.1}Equipos}{9}{}%
-\contentsline {section}{\numberline {3.2}Metodología experimental}{9}{}%
-\contentsline {chapter}{\numberline {4}IV. Resultados y discusión}{10}{}%
-\contentsline {chapter}{\textbf {Conclusión}}{11}{}%
-\contentsline {chapter}{\textbf {Referencias}}{11}{}%
+\contentsline {chapter}{\numberline {2}II. Marco teórico}{9}{}%
+\contentsline {section}{\numberline {2.1}Antecedentes}{9}{}%
+\contentsline {section}{\numberline {2.2}Bases teóricas}{9}{}%
+\contentsline {chapter}{\numberline {3}III. Marco metodológico}{10}{}%
+\contentsline {section}{\numberline {3.1}Equipos}{10}{}%
+\contentsline {section}{\numberline {3.2}Metodología experimental}{10}{}%
+\contentsline {chapter}{\numberline {4}IV. Resultados y discusión}{11}{}%
+\contentsline {chapter}{\textbf {Conclusión}}{12}{}%
+\contentsline {chapter}{\textbf {Referencias}}{12}{}%
